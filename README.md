@@ -8,3 +8,6 @@
 
 - https://www.toptal.com/developers/gitignore
 - https://reactsensei.com/favicon/
+- [learn the DOM](https://www.youtube.com/watch?v=0ik6X4DJKCc)
+- https://dmitripavlutin.com/javascript-scope/
+- https://dmitripavlutin.com/when-not-to-use-arrow-functions-in-javascript/
